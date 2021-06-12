@@ -5,6 +5,7 @@ The purpose of this project is to predict both how many people will take an onli
 # Step by Step Process
 
 Step 1: Data Cleaning
+
 First we clean the data and modify data fields to ensure we have meaningful data. The data used includes the following fields:
 
 * TC ID
