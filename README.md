@@ -1,4 +1,4 @@
-# Origami Prediction Analysis Description
+# Description
 
 The purpose of this project is to predict both how many people will take an online origami class and how many people will complete the origami activity during class.
 
